@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        {% block title %}        
+            Home Page
+        {% endblock %}
+    </title>
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+</head>
+<body>
+    <img id="logo" src="{% static 'images/png/Ts.png' %}" alt="">
+    <h1>Brand Store</h1>
+    {% include 'include/navbar.html'%}
+    {% block content %}
+        <div>
+            <h2 id="pro">MacBook Pro</h2>
+            <h2 id="pro2">The superpower of professionals.</h2>
+            <img id="Macbook2" src="{% static 'images/jpeg/Macbook Pro.jpg'%}" alt="">
+            <h2 id="phone">Iphone 13 Pro</h2>
+            <h2 id="text">Just. Unreal.</h2>
+            <img id="Iphone" src="{% static 'images/jpeg/Iphone.jpg'%}" alt="">
+        </div>
+    {% endblock %}
+</body>
+</html>

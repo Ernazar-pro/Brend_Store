@@ -1,0 +1,197 @@
+#logo{
+    height: 110px;
+    width: 110px;
+}
+
+h1{
+    margin-left: 110px ;
+    margin-top: -80px;
+}
+
+li{
+    float: left;
+    margin-left: 280px;
+    margin-top: -20px ;
+}
+
+a{
+    font-size: 15pt;
+}
+
+#Brend{
+    font-size: 20pt;
+    margin-top: 600px;
+    margin-left: 650px;
+}
+
+p{
+    font-family: sans-serif;
+    margin-top: 200px;
+    margin-left: 150px;
+    font-size: 20pt;
+}
+
+#Welcome{
+    margin-left: 450px;
+    font-size: 36pt;
+    margin-top: -100px;
+}
+
+
+
+#product{
+    width: 250px;
+    height: 250px;
+    margin-top: 0px;
+}
+
+#title{
+    margin-left: 300px;
+    margin-top: -210px;
+}
+
+#description{
+    margin-left: 300px;
+}
+
+#price{
+    margin-left: 300px;
+}
+
+.products{
+    border: 2px solid blue;
+}
+
+#Macbook2{
+    margin-top: 30px;
+    margin-left:100px
+}
+
+#pro{
+    margin-left: 600px;
+    margin-top: 100px;
+    font-size: 24pt;
+}
+
+#pro2{
+    font-size: 36pt;
+    margin-left: 350px;
+}
+
+#Iphone{
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+#phone{
+    font-size: 24pt;
+    margin-left: 600px;
+}
+
+#text{
+    font-size: 36pt;
+    margin-left: 570px;
+}
+
+
+#Welcome2{
+    margin-top: 100px;
+}
+
+#text1{
+    font-size: 36pt;
+    margin-top: -100px;
+    margin-left: 450px;
+}
+
+#text2{
+    margin-top: -50px;
+}
+
+#text3{
+    margin-left: 650px;
+    margin-top: -20px;
+}
+
+#text4{
+    margin-top: -40px;
+}
+
+#text5{
+    margin-left: 640px;
+    margin-top: -20px;
+}
+
+#text6{
+    margin-top: -210px;
+    margin-left: 170px;
+}
+
+#text7{
+    margin-top: -30px;
+    margin-left: 400px;
+}
+
+#text8{
+    margin-top: -30px;
+    margin-left: 200px;
+}
+
+#text9{
+    margin-top: -10px;
+    margin-left: 500px;
+}
+
+#Contact{
+    margin-top: 50px;
+    margin-left: 620px;
+}
+
+#Contact2{
+    margin-left: 50px;
+}
+
+#Contact3{
+    margin-left: 50px;
+}
+
+#Contact4{
+    margin-left: 50px;
+}
+
+#Contact5{
+    margin-left: 50px;
+}
+
+#Contact6{
+    margin-left: 50px;
+}
+
+#Contact7{
+    margin-left: 50px;
+}
+
+#Contact8{
+    margin-left: 50px;
+}
+
+#Contact9{
+    margin-left: 50px;
+}
+
+#Contact10{
+    margin-left: 50px;
+}
+
+#Contact11{
+    margin-left: 50px;
+}
+
+#Contact12{
+    margin-left: 50px;
+}
+
+#Contact13{
+    margin-left: 50px;
+}
+
